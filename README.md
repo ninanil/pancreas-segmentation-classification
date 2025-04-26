@@ -113,11 +113,6 @@ Metrics include:
   - Macro F1 score
 
 ---
-## Trained Models
-
-> Coming soon — trained weights and checkpoints will be published here.
-
----
 
 ## 🧠 Acknowledgements
 
